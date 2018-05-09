@@ -1,0 +1,26 @@
+table {
+	border-collapse: collapse;
+}
+table, th, td {
+	border: 1px solid black;
+}
+th {
+	background-color: rgb(145,186,88);
+}
+
+table {
+	width: 50%;
+}
+
+h1 {
+	font-size: 4em;
+	color: red;
+}
+
+h2 {
+	font-size: 2em;
+	color: blue;
+}
+.titlist {
+	font-weight: bold;
+}
